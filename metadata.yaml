@@ -1,0 +1,24 @@
+_repo: The-Life-and-Romances-of-Mrs.-Eliza-Haywood_10889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whicher, George Frisbie
+    birthdate: 1889
+    deathdate: 1954
+    gutenberg_agent_id: '3738'
+    url: http://www.gutenberg.org/2009/agents/3738
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Haywood, Eliza Fowler, 1693?-1756'
+- GITenberg
+title: The Life and Romances of Mrs. Eliza Haywood
+url: http://www.gutenberg.org/ebooks/10889
